@@ -14,4 +14,5 @@
 ## Projects by SERGEY Dymchenko , 2022-2023
 
 Данное портфолио создано после прохождения обучения по специальности Аналитик Данных в "Яндекс Практикуме".
+
 This portfolio was created after completing training in the specialty of Data Analyst at Yandex Practicum.
